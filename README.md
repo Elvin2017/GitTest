@@ -5,3 +5,4 @@
 #Personas aprendiendo Git desde cero
 
 Elvin Mendoza
+Juan Quemada Solano
